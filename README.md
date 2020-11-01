@@ -11,6 +11,9 @@ red: over 1000 ppm CO2 (or below 300 ppm)
 - LED Traffic Light (https://de.aliexpress.com/item/4000282316360.html)
 - MH-Z19B CO2 Sensor (https://de.aliexpress.com/item/4001122072228.html)
 
+**Libraries**
+- [MH-Z19B](https://github.com/WifWaf/MH-Z19)
+
 **Photos**
 
 ![CO2-Ampel Arduino Uno with Shield and Sensor](CO2-Ampel1.png)\

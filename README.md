@@ -1,5 +1,5 @@
-# CO2-Ampel
-## CO2 traffic light for rooms
+# CO<sub>2</sub>-Ampel
+**CO<sub>2</sub> traffic light for rooms**
 
 green: under 700 ppm CO2 \
 yellow: between 700 and 999 ppm CO2 \

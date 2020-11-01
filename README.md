@@ -10,3 +10,8 @@ red: over 1000 ppm CO2 (or below 300 ppm)
 - Relais Shield (https://de.aliexpress.com/item/32982923249.html)
 - LED Traffic Light (https://de.aliexpress.com/item/4000282316360.html)
 - MH-Z19B CO2 Sensor (https://de.aliexpress.com/item/4001122072228.html)
+
+**Photos**
+
+![CO2-Ampel Arduino Uno with Shield and Sensor](CO2-Ampel1.png)\
+![CO2-Ampel Traffic Light](CO2-Ampel2.png)
